@@ -9,7 +9,7 @@
     <h1>Welcome to My Simple PHP Page</h1>
     <p>
         <?php
-            echo "Hello, today is " . date("l, F j, Y") . ".";
+            echo "Hello, today is nor playing fabuloso " . date("l, F j, Y") . ".";
         ?>
     </p>
     <p>
